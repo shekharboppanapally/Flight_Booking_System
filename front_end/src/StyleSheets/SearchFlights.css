@@ -16,6 +16,11 @@
     margin: 0px 15px;
 }
 
+.NoDisplay
+{
+    display:None
+}
+
 .InnerSearchBoxDiv{
     width: fit-content;
     height: fit-content;
@@ -27,7 +32,23 @@
     background-color: wheat;
 }
 
+.SearchBsuttoßn{
+    background-color: #2F80Ed;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    outline: none;
+    cursor: pointer;
+}
+
 .DepartureDate, .ReturnDate{
     width: 200px;
     margin: 20px;
+}
+
+.FlightDiv
+{
+    border: solid #2F80Ed 1px;
+    padding: 10px;
+    cursor: pointer;
 }
