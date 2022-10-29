@@ -1,0 +1,1 @@
+create table registration(username varchar(30),gender varchar(10),dob varchar(10),governmentid bigint,city varchar(20),emailid varchar(20),password varchar(15),confirmpassword varchar(15))
