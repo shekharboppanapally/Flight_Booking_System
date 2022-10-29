@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<form action="/action_page.php">
+  <label for="place">Choose source</label>
+  <select name="place" id="place">
+    <option value="source">s1</option>
+    <option value="source">s2</option>
+    <option value="source">s3</option>
+    <option value="source">s4</option>
+  </select>
+  <br><br>
+  <label for="place">Choose destination</label>
+  <select name="place" id="place">
+    <option value="destiation">d1</option>
+    <option value="destination">d2</option>
+    <option value="destination">d3</option>
+    <option value="destination">d4</option>
+  </select>
+  <br></br>
+  <input type="submit" value= "submit">
+</form>
+
+
+
