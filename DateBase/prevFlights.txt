@@ -1,0 +1,5 @@
+
+
+CREATE TABLE PrevFLIGHTS( FID INT, SourcePlace VARCHAR(20), DESTINATION VARCHAR(20),Fname VARCHAR(20),lname(20),pid VARCHAR(20),dateoftravel DATE));
+
+
