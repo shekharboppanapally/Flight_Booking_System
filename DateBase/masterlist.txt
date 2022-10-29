@@ -1,0 +1,1 @@
+CREATE TABLE masterlist (Pid VARCHAR(20),fname VARCHAR(20),lname VARCHAR(20),age INTEGER(3),nationality VARCHAR(20),govtId VARCHAR(20));
